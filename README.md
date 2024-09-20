@@ -1,7 +1,7 @@
 <h1>Olá, Bem-vindo(a) ao meu perfil!</h1>
 <h2>Sobre min</h2>
 <span>
-  Olá me chamo Diogo Bianchini e sou um desenvolvedor web Javascript! <br/>
+  Olá me chamo Diogo Bianchini e sou um desenvolvedor web Javascript fullstack!
 </span>
 <div style="display: inline_block"><br>
   <h2>Minhas tecnologias favoritas</h2>
